@@ -1,0 +1,21 @@
+{
+  "name": "Code Swiftly IDE",
+  "short_name": "Swiftly",
+  "description": "Serverless Python IDE with Agentic AI modules",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#F5F5F7",
+  "theme_color": "#0071E3",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
